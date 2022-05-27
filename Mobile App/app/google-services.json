@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "107379787091",
+    "project_id": "house-price-prediction-659ce",
+    "storage_bucket": "house-price-prediction-659ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107379787091:android:e8af9916ac48b1ab758da6",
+        "android_client_info": {
+          "package_name": "com.example.housepriceprediction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107379787091-pn7t06ksof84m6rqni98v5iooi4ulqhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_CE1CtTTxnFAF01EiPk9eAYFp66iAg90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107379787091-pn7t06ksof84m6rqni98v5iooi4ulqhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
